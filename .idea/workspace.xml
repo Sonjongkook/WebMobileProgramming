@@ -20,19 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="397b938c-2214-4874-be84-df6f9edcd71c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Documentation/1.installation.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documentation/10.Sync both local repositories and remote respositories.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documentation/2.Clone it to the local machine.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documentation/2.Create 2 directories.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documentation/2.create Github account.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documentation/3.repository creation.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documentation/4.Create an HTML document.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documentation/4.update readme.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documentation/4Write about your repository in README.MD file.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documentation/7.Fork any existing repository.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documentation/8.Create a branch for your repo and make a pull request.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documentation/8.make a pull request9.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598344100577</updated>
-      <workItem from="1598344102034" duration="4179000" />
+      <workItem from="1598344102034" duration="5406000" />
     </task>
     <servers />
   </component>
