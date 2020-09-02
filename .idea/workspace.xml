@@ -20,7 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="397b938c-2214-4874-be84-df6f9edcd71c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ICP_1/Source/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/1.installation.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_1/Documentation/1.installation.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/10.Sync both local repositories and remote respositories.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_1/Documentation/10.Sync both local repositories and remote respositories.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/2.Clone it to the local machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_1/Documentation/2.Clone it to the local machine.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/2.Create 2 directories.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_1/Documentation/2.Create 2 directories.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/2.create Github account.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_1/Documentation/2.create Github account.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/3.repository creation.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_1/Documentation/3.repository creation.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/4.Create an HTML document.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_1/Documentation/4.Create an HTML document.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/4.update readme.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_1/Documentation/4.update readme.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/4Write about your repository in README.MD file.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_1/Documentation/4Write about your repository in README.MD file.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/7.Fork any existing repository.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_1/Documentation/7.Fork any existing repository.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/8.Create a branch for your repo and make a pull request.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_1/Documentation/8.Create a branch for your repo and make a pull request.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/8.make a pull request9.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_1/Documentation/8.make a pull request9.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/9.Create an issue.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_1/Documentation/9.Create an issue.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +68,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_1" />
       <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\Documentation" />
     </key>
   </component>
@@ -65,6 +81,8 @@
       <option name="presentableId" value="Default" />
       <updated>1598344100577</updated>
       <workItem from="1598344102034" duration="5406000" />
+      <workItem from="1599015098990" duration="18000" />
+      <workItem from="1599015118060" duration="94000" />
     </task>
     <servers />
   </component>
@@ -81,5 +99,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="848" y="310" key="FileChooserDialogImpl" timestamp="1599015114272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="848" y="310" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599015114272" />
   </component>
 </project>
