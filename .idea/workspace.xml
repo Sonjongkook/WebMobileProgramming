@@ -20,44 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="397b938c-2214-4874-be84-df6f9edcd71c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Heading.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Images.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Notification and profile.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Openedtabs.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Output div and span.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Output-Heading.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Output-ImageNewtab.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Output-images.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Output-notification.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Output-openedtab.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Output-paragraph.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Output-video.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Output_list.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Paragraph.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/Video.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/div and span.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/Documentation/list.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/github.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task1/Photos/github.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/google.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task1/Photos/google.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/hackersrank.png" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task1/Photos/hackersrank.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/instagram.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task1/Photos/instagram.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/linkedin.png" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task1/Photos/linkedin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/naver.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task1/Photos/naver.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/netflix.png" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task1/Photos/netflix.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task1/Photos/profile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/youtube.png" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task1/Photos/youtube.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/CSS_Task1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/CSS_Task1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task1/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/CSS_Task2/cube.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task2/cube.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/CSS_Task2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task2/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/HTML_TASK/Video/dog video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/HTML_TASK/Video/dog video.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/HTML_TASK/images/jokes1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/HTML_TASK/images/jokes1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/HTML_TASK/images/turtle1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/HTML_TASK/images/turtle1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/HTML_TASK/images/turtle2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/HTML_TASK/images/turtle2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/HTML_TASK/images/turtle3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/HTML_TASK/images/turtle3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/HTML_TASK/images/turtle4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/HTML_TASK/images/turtle4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/HTML_TASK/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/HTML_TASK/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP_2/Source/CSS_Task2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +77,7 @@
       <workItem from="1598344102034" duration="5406000" />
       <workItem from="1599015098990" duration="18000" />
       <workItem from="1599015118060" duration="826000" />
-      <workItem from="1599016028414" duration="24685000" />
+      <workItem from="1599016028414" duration="24997000" />
     </task>
     <servers />
   </component>
