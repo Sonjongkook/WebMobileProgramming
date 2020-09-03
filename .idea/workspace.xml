@@ -20,10 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="397b938c-2214-4874-be84-df6f9edcd71c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ICP_2/GoogleTask/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/GoogleTask/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_2/ToDo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/github.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/google.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/hackersrank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/instagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/naver.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/netflix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/CSS_Task1/Photos/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/CSS_Task1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/CSS_Task2/cube.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/CSS_Task2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/HTML_TASK/Video/dog video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/HTML_TASK/images/jokes1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP_2/HTML_TASK/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP_2/GoogleTask/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP_2/GoogleTask/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/CSS_Task1/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP_2/ToDo.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +49,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -53,14 +69,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ICP_2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_2\HTML_TASK\Video" />
+      <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_2\CSS_Task1\Photos" />
+      <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_2" />
+      <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_2\HTML_TASK\images" />
+      <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_2\GoogleTask\Photos" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_2" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_1" />
-      <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\Documentation" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -73,7 +94,8 @@
       <updated>1598344100577</updated>
       <workItem from="1598344102034" duration="5406000" />
       <workItem from="1599015098990" duration="18000" />
-      <workItem from="1599015118060" duration="407000" />
+      <workItem from="1599015118060" duration="826000" />
+      <workItem from="1599016028414" duration="19951000" />
     </task>
     <servers />
   </component>
