@@ -176,13 +176,23 @@ footer a:hover {
 
 /*Adding some css to make flex box*/
 
+/*make opened tab image with flex display*/
 .tab-container{
+  padding: 0;
+  margin: 0;
   display: flex;
   justify-content: center;
-  margin-top: 10px;
-
+  width: 100%;
 }
 .tab{
   margin: 10px;
-
+  text-align: center;
+  width: 20%;
+  height: 20%;
 }
+/*adjusting image size*/
+.tab img {
+  width: 90px;
+  height: 90px;
+}
+

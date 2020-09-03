@@ -4,13 +4,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: row;
+
 }
 
 /*adjust each box size with 70x70*/
 .box{
-    width: 70px;
-    height: 70px;
+    width: 60px;
+    height: 60px;
     /*adjust margin to each box as 5px*/
     margin: 0px 5px 5px 0px;
 }
