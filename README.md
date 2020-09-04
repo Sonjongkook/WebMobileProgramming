@@ -10,3 +10,4 @@ Instructor Name: Vijaya Yeruva
 Wiki Links for Web ICPs
 
 ICP1: https://github.com/Sonjongkook/WebMobileProgramming.wiki.git
+ICP2: https://github.com/Sonjongkook/WebMobileProgramming/wiki/WEB-ICP_2
