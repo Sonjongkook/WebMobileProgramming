@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72ebbe30-9587-4a1f-8db7-5b38699a7536" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hG75gf9wOpWil5sV5aNda4C9EP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ddd" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sjk37\Desktop\Web_Lesson3\InClassProgramming\RWD Task\SampleImages" />
+      <recent name="C:\Users\sjk37\Desktop\Web_Lesson3\InClassProgramming\Rock-Paper-Scissors\Source" />
+      <recent name="C:\Users\sjk37\Desktop\Web_Lesson3\InClassProgramming\Rock-Paper-Scissors\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72ebbe30-9587-4a1f-8db7-5b38699a7536" name="Default Changelist" comment="" />
+      <created>1599625393371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599625393371</updated>
+      <workItem from="1599625394405" duration="2230000" />
+      <workItem from="1599628062350" duration="6839000" />
+      <workItem from="1599659393664" duration="21582000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1167" y="372" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599629007460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1167" y="372" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599629007460" />
+    <state x="1104" y="294" key="FileChooserDialogImpl" timestamp="1599666686055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1104" y="294" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599666686055" />
+  </component>
+</project>
