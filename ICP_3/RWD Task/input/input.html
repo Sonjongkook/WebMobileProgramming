@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+<!--
+TODO:
+1.Enter your name in h1 and designation in h3
+2.Replace all the placeholder images with suitable images of the same size reflecting you and your projects.Feel free to use the sample images provided
+3.Replace the content of headings App1,App2,App3,App4 with suitable headings of your projects & provide their github links in the corresponding links
+4.Make all the elements in the page responsive & align its content as shown in the output sample with the aforementioned using bootstrap
+
+-->
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Using bootstrap CDN-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <!--Link to use google fonts in my work-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+
+    <!--Change the font and Using reference color-->
+    <style>
+
+        body{
+            font-family: 'Lato', sans-serif;
+
+        }
+
+        .ref-col1{
+            color: #BCBBBB;
+        }
+
+        .ref-col2{
+            color: #747704;
+        }
+    </style>
+
+
+</head>
+<body>
+    <!-- Using container to wrap rows-->
+    <div class="container">
+
+        <div class="row">
+            <!--Inside row, contents should be wrapped with col-->
+            <div class="col-sm-6">
+                <!--Putting my profile pic-->
+                <img src="../SampleImages/me.jpg" height="100" width="100"></div>
+            <div class="col-sm-6 ref-col2">
+                <!--Entering my name in h1 and designation -->
+                <h1>Jongkook Son</h1>
+                <h3>Web Developer</h3>
+            </div>
+        </div>
+
+        <!--draw a line that  show shift from one topic to next topic-->
+        <hr style="border-top: 5px solid #BCBBBB">
+
+        <div class="row">
+            <div class="col-sm-12">
+                <img src="../SampleImages/Image.png" width="100%">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12 ref-col1">
+                <h2>Featured Work </h2>
+            </div>
+        </div>
+
+        <div class="row ref-col2">
+            <!--Using col-sm to show responsive changes in cellphone(576px wide)-->
+            <!--Take span as 3 because we need 12 to be distributed for 4 -->
+            <div class="col-sm-3" >
+                <img src="../SampleImages/1.png" width="100%" height="300">
+                <h3 class="text-center">Mybnb</h3>
+                <p class="text-center"><a href="https://github.com/Sonjongkook/Mybnb-Cloning-Airbnb-">Link to project</a></p>
+            </div>
+            <div class="col-sm-3">
+                <img src="../SampleImages/2.jpg" width="100%" height="300">
+                <h3 class="text-center">Emergency Dispatching System</h3>
+                <p class="text-center"><a href="https://github.com/Sonjongkook/Group4-Emergency-Vehicle-Dispatching-System-Project-">Link to project</a></p>
+            </div>
+            <div class="col-sm-3">
+                <img src="../SampleImages/3.jpg" width="100%" height="300">
+                <h3 class="text-center">Movie DB</h3>
+                <p class="text-center"><a href="https://github.com/Sonjongkook/MovieDB">Link to project</a></p>
+            </div>
+            <div class="col-sm-3">
+                <img src="../SampleImages/4.png" width="100%" height="300">
+                <h3 class="text-center">Kakao Talk</h3>
+                <p class="text-center"><a href="https://github.com/Sonjongkook/kakao-clone-v2">Link to project</a></p>
+            </div>
+
+        </div>
+
+    </div>
+
+
+</body>
+</html>

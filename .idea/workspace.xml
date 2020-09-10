@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="397b938c-2214-4874-be84-df6f9edcd71c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_2/Source/CSS_Task2/cube.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_2/Source/CSS_Task2/cube.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ICP_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -85,7 +84,9 @@
       <workItem from="1598344102034" duration="5406000" />
       <workItem from="1599015098990" duration="18000" />
       <workItem from="1599015118060" duration="826000" />
-      <workItem from="1599016028414" duration="25864000" />
+      <workItem from="1599016028414" duration="31230000" />
+      <workItem from="1599625293887" duration="100000" />
+      <workItem from="1599723960072" duration="4965000" />
     </task>
     <servers />
   </component>
@@ -105,9 +106,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="848" y="310" key="FileChooserDialogImpl" timestamp="1599015114272">
+    <state x="848" y="310" key="FileChooserDialogImpl" timestamp="1599625391198">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="848" y="310" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599015114272" />
+    <state x="848" y="310" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599625391198" />
   </component>
 </project>
