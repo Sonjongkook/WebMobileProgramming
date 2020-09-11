@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="397b938c-2214-4874-be84-df6f9edcd71c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP_3/RWD Task/input/input.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_3/RWD Task/input/input.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP_3/Rock-Paper-Scissors/Source/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_3/Rock-Paper-Scissors/Source/Game.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +64,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_2\Documentation" />
       <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_2\Source" />
       <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_2\HTML_TASK\Video" />
       <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_2\CSS_Task1\Photos" />
-      <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_2" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sjk37\Documents\WebMobileProgramming\ICP_2" />
     </key>
   </component>
@@ -86,7 +88,7 @@
       <workItem from="1599015118060" duration="826000" />
       <workItem from="1599016028414" duration="31230000" />
       <workItem from="1599625293887" duration="100000" />
-      <workItem from="1599723960072" duration="4965000" />
+      <workItem from="1599723960072" duration="10652000" />
     </task>
     <servers />
   </component>
