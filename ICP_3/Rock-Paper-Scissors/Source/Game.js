@@ -16,7 +16,6 @@ for (let i = 0; i <buttons.length; i++){
 function Gameplay(b){
     // By using Math module, pick out random number between 1~3
     let computer_hand = Math.floor(Math.random()*3 +1)
-    console.log(computer_hand)
     // assign button's inner text as a user selection
     let user_hand = b.target.innerText
 
