@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Calculator</title>
+  <!--Using bootstrap  -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+<!--1. write Typescript code in "app.component.ts" to work with ToDo list-->
+</head>
+<body class="text-white">
+
+<!--//2. write html(view) code to display the ToDos-->
+<div class="container-fluid">
+  <div class="row bg-success justify-content-center
+            align-items-center" style="height:80px">
+    <div class="col-3"></div>
+    <div class="col-6 text-light h2">
+      the early bird catches the worm
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12 text-center">
+      <h2 style="margin-top: 30px;">TODO LIST</h2>
+    </div>
+  </div>
+
+
+  <!--code to create form for user to add new task-->
+  <form #addItem = "ngForm" (ngSubmit)="submitNewItem(addItem.value)">
+    <div class=" col-12 form-group row text-center" style="margin-top: 40px;">
+      <div class="col-9">
+        <input type="text" class="form-control" style="height: 40px" placeholder="Input event" name="taskName" ngModel/>
+        <input type="datetime-local" class="form-control"  placeholder="Input time of the event" id="tasktime" [(ngModel)]="time" name="time">
+      </div>
+      <div class="col-3">
+        <button type="submit" class="btn btn-info" >Add Task</button>
+      </div>
+    </div>
+  </form>
+
+  <!--Displaying waiting items list-->
+  <div class="text-center" style="padding-top: 30px"><h3>Wating TASKS</h3></div>
+  <div class="row ">
+    <div class="col-12">
+      <!--check if there are waiting items present-->
+      <div *ngIf="items.length > 0">
+        <!--Using ngfor it is the Angular "repeater" directive-->
+        <div *ngFor="let x of items; let id = index">
+          <div class="ml-1 mr-1 row itemList border border-secondary" style="height: 40px">
+            <div class="col-6" style="padding: 10px; font-size: 1rem; font-family:'Roboto';" >
+              <div class="text-left" >{{x}}</div>
+            </div>
+            <!--Showing time countdown for the event-->
+            <div class="col-4">
+              <span >
+                    <!--Using Time list which were made by Countdown func-->
+                    <button class="btn btn-primary">{{Times[id].days + 'days'}}</button>
+                    <button class="btn btn-primary">{{Times[id].hours + 'hours'}}</button>
+                    <button class="btn btn-primary">{{Times[id].minutes + 'minutes'}}</button>
+                    <button class="btn btn-primary">{{Times[id].seconds + 'seconds'}}</button>
+                </span>
+            </div>
+            <!--using deleteitem func, delete item if it is done-->
+            <div class="col-2 text-right" style="padding: 10px">
+              <button (click)="deleteItem(x)"><i class="fa fa-trash"></i></button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!--check if there are waiting items are not present-->
+      <div class="itemList text-center" *ngIf="items.length == 0">
+        <h4>No Waiting Tasks are Available!</h4>
+      </div>
+    </div>
+
+
+
+  </div>
+</div>
+</body>
+</html>
