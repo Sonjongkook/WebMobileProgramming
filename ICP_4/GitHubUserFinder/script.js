@@ -7,16 +7,18 @@ function getGithubInfo(user) {
     //URL to which request is being made
     let url = `https://api.github.com/users/${user}`;
 
-    //Using get method
+    //Using get method, async is true notification of a completed transaction is provided using event listeners
     xhttp.open("GET",url,true)
     //sends the request to the server
-    xhttp.send();
+    xhttp.send()
 
+    //the function to be executed when the readyState changes.
     xhttp.onreadystatechange = function () {
         if(xhttp.readyState === 4){
             //if the response is successful show the user's details
             console.log("success")
             if(xhttp.status === 200){
+                //convert the data from api to readable format
                 let response = JSON.parse(xhttp.responseText)
                 showUser(response)
             //else display suitable message
@@ -36,7 +38,7 @@ function showUser(user) {
 
     $('#profile').children('h2').text(`User Name: ${user.login}`)
     $('.avatar').append(`<img style="width: 300px; height:300px" src=${user.avatar_url}>`)
-    //input personal information using append
+    //input personal information on information div using append
     $('.information').append(`<div>Location: ${user.location}</div>`)
     $('.information').append(`<div>Full name: ${user.name}</div>`)
     $('.information').append(`<div>Following: ${user.following}</div>`)
