@@ -17,4 +17,4 @@ ICP3: https://github.com/Sonjongkook/WebMobileProgramming/wiki/WEB-ICP_3
 
 ICP4: https://github.com/Sonjongkook/WebMobileProgramming/wiki/WEB-ICP_4
 
-ICP4: https://github.com/Sonjongkook/WebMobileProgramming/wiki/WEB-ICP_5
+ICP5: https://github.com/Sonjongkook/WebMobileProgramming/wiki/WEB-ICP_5
