@@ -21,7 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="397b938c-2214-4874-be84-df6f9edcd71c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_4/GitHubUserFinder/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_4/GitHubUserFinder/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP_5/Source/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_5/Source/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP_5/Source/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_5/Source/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP_5/Source/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_5/Source/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP_5/Source/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_5/Source/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP_5/Source/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_5/Source/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP_5/Source/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_5/Source/src/app/app.module.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +52,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1gaE36EPzjKYxBaSSW60Wid3p0R" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -58,8 +63,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Web_Lesson5" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Web_Lesson6" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -92,6 +98,9 @@
       <workItem from="1600348007449" duration="5689000" />
       <workItem from="1600360925875" duration="4296000" />
       <workItem from="1600867195114" duration="14000" />
+      <workItem from="1601008009156" duration="89000" />
+      <workItem from="1601009373172" duration="767000" />
+      <workItem from="1601441767823" duration="19000" />
     </task>
     <servers />
   </component>
@@ -111,9 +120,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="848" y="310" key="FileChooserDialogImpl" timestamp="1600867207166">
+    <state x="848" y="310" key="FileChooserDialogImpl" timestamp="1601441785023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="848" y="310" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600867207166" />
+    <state x="848" y="310" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601441785023" />
   </component>
 </project>
