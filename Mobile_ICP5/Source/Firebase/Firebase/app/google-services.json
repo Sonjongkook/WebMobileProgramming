@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126406379190",
+    "firebase_url": "https://fir-b3907.firebaseio.com",
+    "project_id": "fir-b3907",
+    "storage_bucket": "fir-b3907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126406379190:android:6243ee2c58a686e62b8817",
+        "android_client_info": {
+          "package_name": "com.vijaya.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126406379190-e9o6k6tgl13b0fp2bt9nq160n6e71pfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHlz5vUZUSdn5af1NSeFg5EbcrBXpVPyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126406379190-e9o6k6tgl13b0fp2bt9nq160n6e71pfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
